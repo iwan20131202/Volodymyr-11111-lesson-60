@@ -1,0 +1,17 @@
+h1 {
+text-align: center;
+}
+.first {
+ display: flex;
+justify-content:space-around;
+ font-size: 30px;
+ border: 20px solid blue;
+}
+.secont {
+ display: flex;
+ gap:30px;
+ 
+}
+body
+{color: blue
+} 
